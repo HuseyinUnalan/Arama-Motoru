@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(50deg, rgb(74, 4, 38), rgb(20, 75, 138), rgb(30, 108, 177), rgb(7, 198, 106), rgb(200, 232, 126));
+    height: 672px;
+}
+
+.form-control {
+    border-radius: 35px;
+}
+
+.container {
+    padding-top: 10%;
+}
